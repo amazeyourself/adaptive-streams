@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="https://anywhere.pwisetthon.com/http://maxotts.maxdigitaltv.com/x-media/C90/audio_track1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",DEFAULT=NO,AUTOSELECT=Yes,LANGUAGE="hin",URI="https://anywhere.pwisetthon.com/http://maxotts.maxdigitaltv.com/x-media/C90/audio_track2.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,AUDIO="audio"
+https://anywhere.pwisetthon.com/http://maxotts.maxdigitaltv.com/x-media/C90/index.m3u8
