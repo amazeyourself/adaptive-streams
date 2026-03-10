@@ -2,6 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/History_HD_NW18_MOB-audio_108034_eng=108000.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="hin",URI="https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/History_TV18_Hindi_NW18_MOB-audio_108035_hin=108000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Tamil",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="tam",URI="https://anywhere.pwisetthon.com/http://iptvcasomsapi.jprdigital.in/x-media/C0449/audio_track3.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Telugu",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="tel",URI="https://anywhere.pwisetthon.com/http://iptvcasomsapi.jprdigital.in/x-media/C0449/audio_track4.m3u8"
 
 #EXT-X-STREAM-INF:BANDWIDTH=303000,AVERAGE-BANDWIDTH=276000,AUDIO="audio",CODECS="mp4a.40.2,avc1.4D400C",RESOLUTION=320x180,FRAME-RATE=25
 https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/History_HD_NW18_MOB-video=151600.m3u8
@@ -13,4 +15,5 @@ https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/History
 https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/History_HD_NW18_MOB-video=1275600.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2805000,AVERAGE-BANDWIDTH=2550000,AUDIO="acc",CODECS="mp4a.40.2,avc1.4D4028",RESOLUTION=1920x1080,FRAME-RATE=25
 https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/History_HD_NW18_MOB-video=2297600.m3u8
+
 
