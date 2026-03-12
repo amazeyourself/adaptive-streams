@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=4931315,CODECS="avc1.640029,mp4a.40.2",FRAME-RATE=30.00,RESOLUTION=1920x1080
+https://live-us-east-1.its-newid.net/live/newid_096/lg_channels/1920x1080/language/vttindex/76ea2abd-45c13361-d9596096-e683cee2/fb47c4b8-b7224648-a6442d3b-c052dce4/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2609440,CODECS="avc1.640029,mp4a.40.2",FRAME-RATE=30.00,RESOLUTION=1280x720
+https://live-us-east-1.its-newid.net/live/newid_096/lg_channels/1280x720/language/vttindex/76ea2abd-45c13361-d9596096-e683cee2/fb47c4b8-b7224648-a6442d3b-c052dce4/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1495577,CODECS="avc1.640029,mp4a.40.2",FRAME-RATE=30.00,RESOLUTION=960x540
+https://live-us-east-1.its-newid.net/live/newid_096/lg_channels/960x540/language/vttindex/76ea2abd-45c13361-d9596096-e683cee2/fb47c4b8-b7224648-a6442d3b-c052dce4/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=825094,CODECS="avc1.640029,mp4a.40.2",FRAME-RATE=30.00,RESOLUTION=640x360
+https://live-us-east-1.its-newid.net/live/newid_096/lg_channels/640x360/language/vttindex/76ea2abd-45c13361-d9596096-e683cee2/fb47c4b8-b7224648-a6442d3b-c052dce4/index.m3u8
