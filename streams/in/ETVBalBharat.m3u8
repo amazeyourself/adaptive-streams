@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="hin",URI="https://anywhere.pwisetthon.com/http://iptvcasomsapi.jprdigital.in/x-media/C0305/audio_track1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Assamese",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="asm",URI="https://anywhere.pwisetthon.com/http://iptvcasomsapi.jprdigital.in/x-media/C0305/audio_track2.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Marathi",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="mar",URI="https://anywhere.pwisetthon.com/http://iptvcasomsapi.jprdigital.in/x-media/C0305/audio_track3.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,AUDIO="audio"
+https://anywhere.pwisetthon.com/http://iptvcasomsapi.jprdigital.in/x-media/C0305/index.m3u8
