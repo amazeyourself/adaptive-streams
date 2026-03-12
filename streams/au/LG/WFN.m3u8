@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=29.970
+https://ssai.its-newid.net/api/v1/hls/streams/sessions/44a3a870b95a43e3bedda2c4e3cb3d9d/media/477.m3u8/0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=3600000,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970
+https://ssai.its-newid.net/api/v1/hls/streams/sessions/44a3a870b95a43e3bedda2c4e3cb3d9d/media/477.m3u8/1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=4,BANDWIDTH=1200000,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=29.970
+https://ssai.its-newid.net/api/v1/hls/streams/sessions/44a3a870b95a43e3bedda2c4e3cb3d9d/media/477.m3u8/2.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=6,BANDWIDTH=115200,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=29.970
+https://ssai.its-newid.net/api/v1/hls/streams/sessions/44a3a870b95a43e3bedda2c4e3cb3d9d/media/477.m3u8/3.m3u8
