@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=134000,RESOLUTION=720x576,CODECS="mp4a.40.2,avc1.4D401F",FRAME-RATE=25
+https://live1.sscloud7.com/live/omsakthitv/index.mpd
