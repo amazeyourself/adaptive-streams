@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:7
-
-# AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://mumbai-edge.smartplaytv.in/Discovery/tracks-a1/mono.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="hi",NAME="Hindi",AUTOSELECT=YES,CHANNELS="2",URI="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/Discoverychannel2-audio_208482_und=208000.m3u8"
-
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1880000,BANDWIDTH=2350000,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",CLOSED-CAPTIONS=NONE,AUDIO-GROUP="audio"
-https://mumbai-edge.smartplaytv.in/Discovery/tracks-v1/mono.m3u8
