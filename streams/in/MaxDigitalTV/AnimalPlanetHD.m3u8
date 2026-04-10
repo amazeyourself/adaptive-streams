@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="http://maxotts.maxdigitaltv.com/x-media/C87/audio_track1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="hin",URI="http://maxotts.maxdigitaltv.com/x-media/C87/audio_track2.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,AUDIO="audio"
+http://maxotts.maxdigitaltv.com/x-media/C87/index.m3u8
