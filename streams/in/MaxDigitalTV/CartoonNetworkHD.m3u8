@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English (5.1)",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="http://maxotts.maxdigitaltv.com/x-media/C119/audio_track2.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi (5.1)",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="hin",URI="http://maxotts.maxdigitaltv.com/x-media/C119/audio_track1.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Tamil",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="tam",URI="http://maxotts.maxdigitaltv.com/x-media/C119/audio_track4.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Telugu",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="tel",URI="http://maxotts.maxdigitaltv.com/x-media/C119/audio_track3.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Kannada",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="kan",URI="http://maxotts.maxdigitaltv.com/x-media/C119/audio_track5.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Malayalam",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="mal",URI="http://maxotts.maxdigitaltv.com/x-media/C119/audio_track6.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Marathi",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="mar",URI="http://maxotts.maxdigitaltv.com/x-media/C119/audio_track7.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English (5.1)",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/audio_track2.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi (5.1)",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="hin",URI="https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/audio_track1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Tamil",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="tam",URI="https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/audio_track4.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Telugu",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="tel",URI="https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/audio_track3.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Kannada",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="kan",URI="https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/audio_track5.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Malayalam",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="mal",URI="https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/audio_track6.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Marathi",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="mar",URI="https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/audio_track7.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=1280000,AUDIO="audio"
-http://maxotts.maxdigitaltv.com/x-media/C119/index.m3u8
+https://satoshi-cors.herokuapp.com/http://maxotts.maxdigitaltv.com/x-media/C119/index.m3u8
