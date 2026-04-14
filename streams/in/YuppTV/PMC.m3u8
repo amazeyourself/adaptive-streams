@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=696000,RESOLUTION=512x288
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:studiooneplus.smil/chunklist_b696000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1928000,RESOLUTION=704x396
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:studiooneplus.smil/chunklist_b1928000.m3u8
