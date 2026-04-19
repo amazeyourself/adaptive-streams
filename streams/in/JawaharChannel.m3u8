@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2905521,CODECS="avc1.100.40,mp4a.40.34",RESOLUTION=1920x1080
-https://satoshi-cors.herokuapp.com/http://jawahar.7starcloud.com:1935/jawahartv/streamingbox2/playlist.m3u8
+http://jawahar.7starcloud.com:1935/jawahartv/streamingbox2/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2275316,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1024x576
-https://satoshi-cors.herokuapp.com/http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
+http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
