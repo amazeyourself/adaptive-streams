@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1900000,RESOLUTION=704x396,CODECS="avc1.4d001f,mp4a.40.2"
+https://d1rc86nwwc9fag.cloudfront.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1300000,RESOLUTION=640x360,CODECS="avc1.4d001f,mp4a.40.2"
+https://d1rc86nwwc9fag.cloudfront.net/110322/polimernews/110322/polimernews_1200/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=700000,RESOLUTION=384x216,CODECS="avc1.4d001f,mp4a.40.2"
+https://d1rc86nwwc9fag.cloudfront.net/110322/polimernews/110322/polimernews_400/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=700000,RESOLUTION=512x288,CODECS="avc1.4d001f,mp4a.40.2"
+https://d1rc86nwwc9fag.cloudfront.net/110322/polimernews/110322/polimernews_600/chunks.m3u8
