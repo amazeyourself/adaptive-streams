@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=696000,RESOLUTION=512x288
+https://d1rc86nwwc9fag.cloudfront.net/260723/vanitha_600/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1928000,RESOLUTION=704x396
+https://d1rc86nwwc9fag.cloudfront.net/260723/vanitha_1800/chunks.m3u8
